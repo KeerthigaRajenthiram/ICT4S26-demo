@@ -21,7 +21,7 @@ A lightweight Streamlit UI for exploring historical AutoML runs and getting inte
 ## Project structure
 
 ```text
-experiment-factory/
+ICT4S26-demo/
 ├── automl_kb/
 │   ├── config.py
 │   └── data/
