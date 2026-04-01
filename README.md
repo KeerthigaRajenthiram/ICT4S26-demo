@@ -18,6 +18,10 @@ A lightweight Streamlit UI for exploring historical AutoML runs and getting inte
   - minimum accuracy
 - Inspect the winning configuration and export it
 
+
+![Alt text](screenshots/Picture1.png)
+![Alt text](screenshots/Picture2.png)
+
 ## Project structure
 
 ```text
