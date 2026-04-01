@@ -1,4 +1,4 @@
-# A Sustainability-Aware AutoML nowledge Base
+# A Sustainability-Aware AutoML Knowledge Base
 
 A lightweight Streamlit UI for exploring historical AutoML runs and getting intent-aware model recommendations from the AutoML knowledge base.
 
