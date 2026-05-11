@@ -86,5 +86,3 @@ Then open the local Streamlit URL shown in the terminal.
 - `plotly`
 
 ## License
-
-Add your preferred license here.
